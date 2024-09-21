@@ -3,7 +3,7 @@ Outil de récupération d'information
 
 ## Présentation
 L'outil permet de récupérer les informations essentielles d'un ordinateur et de les envoyer par mail.
-L'application dispose également d'un bouton pour simplement copier les informations dans le presse-papier et d'un autre pour les télécharger au format TXT dans le dpssoer "Téléchargements".
+L'application dispose également d'un bouton pour simplement copier les informations dans le presse-papier et d'un autre pour les télécharger au format TXT dans le dossier "Téléchargements".
 
 ![plop](https://github.com/user-attachments/assets/d085e8f0-971e-485c-afb0-e99f2f709b59)
 
