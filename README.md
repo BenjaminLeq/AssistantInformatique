@@ -1,6 +1,6 @@
 # Assistant Informatique
 
-![Version](https://img.shields.io/badge/version-2.1.1-2f67d8)
+![Version](https://img.shields.io/badge/version-2.1.2-2f67d8)
 ![AutoIt](https://img.shields.io/badge/AutoIt-3.3.16.1-17324d)
 ![Plateforme](https://img.shields.io/badge/plateforme-Windows-0078d4)
 
